@@ -1,6 +1,6 @@
 
 <div align="center">
-<img width="100%" height = "150px" src="https://media.discordapp.net/attachments/960129487108976670/961526321069031434/standard_1.gif" alt="cover" />
+<img width="100%" height = "150px" src="https://github.com/ShreyJaiswal1/ShreyJaiswal1/blob/main/shrey.gif?raw=true" alt="cover" />
 </div>
 
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
