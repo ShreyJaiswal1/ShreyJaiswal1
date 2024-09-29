@@ -1,6 +1,6 @@
 
 <div align="center">
-<img width="100%" height = "150px" src="https://github.com/ShreyJaiswal1/ShreyJaiswal1/blob/main/shrey.gif?raw=true" alt="cover" />
+<img src="https://github.com/ShreyJaiswal1/ShreyJaiswal1/blob/main/shrey.gif?raw=true" alt="cover" height="240" width="600" />
 </div>
 
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
