@@ -1,4 +1,3 @@
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 <div align="center">
 <img src="https://github.com/ShreyJaiswal1/ShreyJaiswal1/blob/main/shrey.gif?raw=true" alt="cover" height="240" width="600" />
 </div>
@@ -9,7 +8,6 @@
 ![visitors](https://komarev.com/ghpvc/?username=ShreyJaiswal1&label=Profile%20views&color=0e75b6&style=flat)
 
 </p>
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="shreyjaiswal1" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/shreyjaiswal1?trk=profile-badge">Shrey Jaiswal</a></div>
               
 <div size='20px'> Hi! My name is Shrey. Thank You for taking the time to view my GitHub Profile :smile: 
 </div>
