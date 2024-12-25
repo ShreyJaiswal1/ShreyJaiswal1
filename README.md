@@ -9,8 +9,8 @@
 - 🔭 I’m currently working on Node.js | JavaScript | TypeScript
 - 🌱 I’m currently learning Web development | Machine Learning with Python
 - 👯 I’m looking to collaborate on Open Source Projects
-- 🏫 Doing Bachelors of Computer Application (2nd year)
-- 💬 Talk to me about Python, JavaScript, Node.js, Freelancing
+- 🏫 Doing Bachelors of Computer Application(BCA) 2nd year
+- 🎸 fun fact: I do sing, play guitar and video games :)
 
 ## Tech Stacks
 
