@@ -50,13 +50,6 @@
 - ### [Discord.js Bot](https://github.com/shreyjaiswal1/krystal-discord-bot)
     **Description**: A Discord.js bot with music player, moderation commands and 300+ commands
 
-
-## GitHub Stats
-<div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=shreyjaiswal1&show_icons=true&theme=dark" alt="shreyjaiswal1" /><br>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyjaiswal1&theme=dark" alt="shreyjaiswal1" />  
-</div>
-
 ## Connect with me
 <p align="center">
   <a href="https://discord.gg/ZVCB8EnRX2">
