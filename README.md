@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on Node.js | JavaScript | TypeScript
 - 🌱 I’m currently learning Web development | Machine Learning with Python
 - 👯 I’m looking to collaborate on Open Source Projects
-- 🏫 Doing Bachelors of Computer Application(BCA) 2nd year
+- 🏫 Doing Bachelors of Computer Application(BCA) 3rd year
 - 🎸 fun fact: I do sing, play guitar and video games :)
 
 ## Tech Stacks
@@ -64,5 +64,9 @@
   <a href="mailto:5aprilshrey@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <br><br><img align="center" src="https://komarev.com/ghpvc/?username=shreyjaiswal1&style=for-the-badge" alt="profile views" />
+  <br><br>
+    <img src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
+  </a><br>
+  <img align="center" src="https://komarev.com/ghpvc/?username=shreyjaiswal1&style=for-the-badge" alt="profile views" />
+    <a href="https://payments.cashfree.com/forms/shrey" target="_blank">
 </p>
